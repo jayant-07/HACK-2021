@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>"my pharmacy"</title>
+</head>
+
+<body style="background-color:powderblue;">
+
+<h1 style="font-size:100px;">this is my first blog</h1> 
+<hr>
+<h2 style="color:tomato;">lets understand chronology</h2>
+<hr>
+<h3 style="text-align:center;">means</h3>
+<h4>as we increase</h4>
+<hr>
+<h5>h with integer</h5>
+<h6>its size decreases</h6>
+<h7>is h7 exist</h7> 
+<h8>no</h8>
+<p> this is p tag which is called
+<p>paragraph tag  for changing line we have to use new p tag</p>
+it connects all lines
+</p> 
+<ol>
+<li> first list</li>
+<li> seicond list</li>
+<ul>
+<li> i'm nested inside 2nd list</li>
+<ol>
+<li><strong>"whoa i am really nested"</strong><li>
+</ol>
+</ul>
+
+<li> thirs list</li>
+</ol>
+<ul>
+<li> first bullet</li>
+<li> second bullet</li>
+</ul>
+<a href="https://www.w3schools.com">This is a link</a>
+</br>
+<p style="color:red;">This is a red paragraph.</p>
+<p title="I'm a tooltip">Mouse over this paragraph, to display the title attribute as a tooltip.</p>
+<h1><strong>divas and span</strong></h1>
+
+</body>
+</html>
